@@ -1,0 +1,7 @@
+{
+    "name": "com.abuksigun.whisper-cpp",
+    "version": "0.1.0",
+    "displayName": "Whisper.Cpp",
+    "description": "",
+    "unity": "2021.2"
+}
